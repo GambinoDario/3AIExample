@@ -1,0 +1,17 @@
+Clone:
+git clone URL
+
+Add:
+git add file da aggiungere
+
+Push:
+git push
+
+Branch:
+git branch
+
+Stage:
+git stage file
+
+Commit
+git commit -m "nn"
