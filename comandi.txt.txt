@@ -4,9 +4,6 @@ git clone URL
 Add:
 git add file da aggiungere
 
-Push:
-git push
-
 Branch:
 git branch
 
@@ -15,3 +12,6 @@ git stage file
 
 Commit
 git commit -m "nn"
+
+Push:
+git push (pushare le commit)
